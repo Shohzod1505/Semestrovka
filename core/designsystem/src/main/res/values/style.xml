@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NewsTitle">
+        <item name="android:textColor">@color/M3_sys_light_on_surface</item>
+        <item name="android:textSize">@dimen/M3_label_small</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NewsText">
+        <item name="android:textColor">@color/M3_sys_light_on_surface</item>
+        <item name="android:textSize">@dimen/M3_body_medium</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="DetailBase">
+        <item name="android:textColor">@color/M3_sys_light_on_surface</item>
+        <item name="android:textSize">@dimen/M3_body_large</item>
+    </style>
+
+    <style name="DetailInfo">
+        <item name="android:textColor">@color/M3_sys_light_on_surface_variant</item>
+        <item name="android:textSize">@dimen/M3_body_medium</item>
+    </style>
+
+</resources>

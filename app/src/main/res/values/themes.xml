@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Semestrovka" parent="Theme.Material3.Light.NoActionBar" />
+
+    <style name="NewsTitle">
+        <item name="android:textColor">@color/M3_sys_light_on_surface</item>
+        <item name="android:textSize">@dimen/M3_label_small</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+</resources>
